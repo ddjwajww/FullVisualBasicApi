@@ -1,0 +1,17 @@
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.vb
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.vbproj.AssemblyReference.cache
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\infrastructure.dll
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\Model.dll
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\Model.pdb
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.vbproj.CopyComplete
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\emre\source\repos\ConsoleApp2\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

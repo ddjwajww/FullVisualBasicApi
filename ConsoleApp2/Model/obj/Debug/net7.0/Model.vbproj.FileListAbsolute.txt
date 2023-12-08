@@ -1,0 +1,15 @@
+C:\Users\emre\source\repos\ConsoleApp2\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\emre\source\repos\ConsoleApp2\Model\bin\Debug\net7.0\Model.dll
+C:\Users\emre\source\repos\ConsoleApp2\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\emre\source\repos\ConsoleApp2\Model\bin\Debug\net7.0\infrastructure.dll
+C:\Users\emre\source\repos\ConsoleApp2\Model\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.vbproj.AssemblyReference.cache
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.AssemblyInfo.vb
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.vbproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.vbproj.CopyComplete
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.dll
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\emre\source\repos\ConsoleApp2\Model\obj\Debug\net7.0\ref\Model.dll
