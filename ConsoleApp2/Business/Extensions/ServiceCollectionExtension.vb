@@ -8,20 +8,20 @@ Public Module ServiceCollectionExtensions
         services.AddAutoMapper(GetType(UserProfile))
         '-------------------------------------------
 
-        'services.AddScoped(Of IBookBs, BookBs)()
-        'services.AddScoped(Of IBookRepository, BookRepository)()
+        services.AddScoped(Of IBookBs, BookBs)()
+        services.AddScoped(Of IBookRepository, BookRepository)()
 
-        'services.AddScoped(Of IAuthorBs, AuthorBs)()
-        'services.AddScoped(Of IAuthorRepository, AuthorRepository)()
+        services.AddScoped(Of IAuthorBs, AuthorBs)()
+        services.AddScoped(Of IAuthorRepository, AuthorRepository)()
 
-        'services.AddScoped(Of ICategoryBs, CategoryBs)()
-        'services.AddScoped(Of ICategoryRepository, CategoryRepository)()
+        services.AddScoped(Of ICategoryBs, CategoryBs)()
+        services.AddScoped(Of ICategoryRepository, CategoryRepository)()
 
-        'services.AddScoped(Of IBorrowedBookBs, BorrowedBookBs)()
-        'services.AddScoped(Of IBorrowedBookRepository, BorrowedBookRepository)()
+        services.AddScoped(Of IBorrowedBookBs, BorrowedBookBs)()
+        services.AddScoped(Of IBorrowedBookRepository, BorrowedBookRepository)()
 
-        'services.AddScoped(Of IReservationBs, ReservationBs)()
-        'services.AddScoped(Of IReservationRepository, ReservationRepository)()
+        services.AddScoped(Of IReservationBs, ReservationBs)()
+        services.AddScoped(Of IReservationRepository, ReservationRepository)()
 
         services.AddScoped(Of IUserBs, UserBs)()
         services.AddScoped(Of IUserRepository, UserRepository)()
